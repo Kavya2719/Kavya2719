@@ -1,6 +1,6 @@
 ### Hello there 👋 , This is Kavya Gupta.
-+ 🌟 --------------------------------------------------------------------------
-+ 🌠 I’m currently working on - Learning
++ 🌠 --------------------------------------------------------------------------
++ 🌟 I’m currently working on - Learning
 + ✨ I’m currently learning - Logic Building in C & CP
 + ☀️ How to reach me:
 +           => rkgqwe@gmail.com
