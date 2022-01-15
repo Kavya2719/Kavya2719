@@ -1,10 +1,10 @@
 ### Hello there 👋 , This is Kavya Gupta.
-+  --------------------------------------------------------------------------
+--------------------------------------------------------------------------
 + 🌟 I’m currently working on - Learning
-+ ✨ I’m currently learning - Logic Building in C & CP
-+ ☀️ How to reach me:
-+           => rkgqwe@gmail.com
-+  --------------------------------------------------------------------------
++ ✨ I’m currently learning - C++ , Logic Building in C++ & C.P.
+
+
+--------------------------------------------------------------------------
 
 <!--
 **Kavya2719/Kavya2719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
