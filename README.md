@@ -5,6 +5,7 @@
 + 🌟 I’m currently working on - Learning
 
 + ✨ I’m currently learning - C++ , Logic Building in C++ & C.P.
+<br/>
 
 ---
 
@@ -13,6 +14,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://img.icons8.com/dusk/26/000000/linkedin--v2.png" />][linkedin]
+
 
 
 
@@ -31,7 +33,7 @@
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
 
-
+<br/>
 <br/>
 
 ---
