@@ -26,7 +26,11 @@
 
 ### Languages And Tools: 
 
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/26/000000/c-programming.png" />
+<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />
+
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+
+
 
 <br/>
 
