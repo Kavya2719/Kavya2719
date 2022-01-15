@@ -14,6 +14,10 @@
 
 [<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://img.icons8.com/dusk/26/000000/linkedin--v2.png" />][linkedin]
 
+
+
+[<img align="left" alt="Kavya | Gmail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGODfbsTF92MRhMx1qBjA-G4ivKsTFfM1nAw&usqp=CAU" />][mail]
+
 <br/>
 
 ---
@@ -42,7 +46,7 @@
 
 [linkedin]: https://www.linkedin.com/in/kavya-gupta-26b45522b/
 
-
+[mail]: mailto:rkgqwe@gmail.com
 
 
 
