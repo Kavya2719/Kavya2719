@@ -16,7 +16,7 @@
 
 
 
-[<img align="left" alt="Kavya | Gmail" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGODfbsTF92MRhMx1qBjA-G4ivKsTFfM1nAw&usqp=CAU" />][mail]
+[<img align="centre" alt="Kavya | Gmail" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][mail]
 
 <br/>
 
