@@ -4,25 +4,29 @@
 
 + 🌟 I’m currently working on - Learning
 
-+ ✨ I’m currently learning - C++ , Logic Building in C++ & C.P.
-<br/>
-
----
++ ✨ I’m currently learning - D.S.A. , D.P. & C.P.
 
 ---
 
 ### Connect with me:
 
-[<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://img.icons8.com/dusk/26/000000/linkedin--v2.png" />][linkedin]
+[<img align="left" alt="Kavya | LinkedIn" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />][linkedin]
 
-
+[<img align="left" alt="Kavya | Twitter" width="26px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-2-1.png" />][twitter]
 
 
 [<img align="centre" alt="Kavya | Gmail" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][mail]
 
-<br/>
-
 ---
+
+### My Competitive Programming ID's:
+
+[<img align="centre" alt="Kavya | CodeChef" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][codechef]
+[<img align="centre" alt="Kavya | CodeForces" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][codeforces]
+[<img align="centre" alt="Kavya | Leetcode" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][leetcode]
+[<img align="centre" alt="Kavya | Atcoder" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][atcoder]
+[<img align="centre" alt="Kavya | GFG" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][gfg]
+<br/>
 
 ---
 
@@ -32,12 +36,15 @@
 
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
-<br/>
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+
 <br/>
 
 ---
-
 
 
 <br />
@@ -51,13 +58,13 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/kavya-gupta-26b45522b/
-
 [mail]: mailto:rkgqwe@gmail.com
-
-
-
-
-
+[twitter]: https://twitter.com/Kavya2719
+[codechef]: https://www.codechef.com/users/kavya2719
+[codeforces]: https://codeforces.com/profile/Kavya2719
+[leetcode]: https://leetcode.com/rkgqwe/
+[atcoder]: https://atcoder.jp/users/kavya2719
+[gfg]: https://auth.geeksforgeeks.org/user/rkgqwe
 
 
 
