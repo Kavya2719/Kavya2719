@@ -21,11 +21,11 @@
 
 ### My Competitive Programming ID's:
 
-[<img align="centre" alt="Kavya | CodeChef" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][codechef]
-[<img align="centre" alt="Kavya | CodeForces" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][codeforces]
-[<img align="centre" alt="Kavya | Leetcode" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][leetcode]
-[<img align="centre" alt="Kavya | Atcoder" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][atcoder]
-[<img align="centre" alt="Kavya | GFG" width="26px" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" />][gfg]
+[<img align="centre" alt="Kavya | CodeChef" width="26px" src="https://static.uacdn.net/thumbnail/external-app-icons/ce4fd2180646452aa0b03c3ffa3ef8e2.png" />][codechef]
+[<img align="centre" alt="Kavya | CodeForces" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" />][codeforces]
+[<img align="centre" alt="Kavya | Leetcode" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" />][leetcode]
+[<img align="centre" alt="Kavya | Atcoder" width="26px" src="https://img.atcoder.jp/assets/atcoder.png" />][atcoder]
+[<img align="centre" alt="Kavya | GFG" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/2560px-GeeksforGeeks.svg.png" />][gfg]
 <br/>
 
 ---
@@ -36,11 +36,7 @@
 
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
+<img align="left" alt="SQL" width="26px" src="https://techcommunity.microsoft.com/t5/image/serverpage/image-id/283585i32E35734ADB2BDF9" />
 
 <br/>
 
