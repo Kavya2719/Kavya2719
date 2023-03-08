@@ -53,12 +53,12 @@
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/kavya-gupta-26b45522b/
+[linkedin]: https://www.linkedin.com/in/Kavya2719/
 [mail]: mailto:rkgqwe@gmail.com
 [twitter]: https://twitter.com/Kavya2719
 [codechef]: https://www.codechef.com/users/kavya2719
 [codeforces]: https://codeforces.com/profile/Kavya2719
-[leetcode]: https://leetcode.com/rkgqwe/
+[leetcode]: https://leetcode.com/Kavya2719/
 [atcoder]: https://atcoder.jp/users/kavya2719
 [gfg]: https://auth.geeksforgeeks.org/user/rkgqwe
 
