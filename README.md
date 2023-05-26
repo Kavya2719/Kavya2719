@@ -4,7 +4,7 @@
 
 + 🌟 I’m currently working on - Learning
 
-+ ✨ I’m currently learning - D.S.A. , D.P. & C.P.
++ ✨ I’m currently targeting - Expert rank on CF
 
 ---
 
