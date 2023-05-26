@@ -4,7 +4,7 @@
 
 + 🌟 I’m currently working on - Learning
 
-+ ✨ I’m currently targeting - Expert rank on CF
++ ✨ I’m currently targetting - Expert rank on CF
 
 ---
 
